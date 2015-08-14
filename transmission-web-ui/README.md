@@ -1,4 +1,4 @@
-# Transmission Web UI - Add Download & Upload Rate in Title Bar
+# Transmission Web GUI - Add Download & Upload Rate in Title Bar
 
 This is an enhancement to Web UI component of the popular [Transmission Torrent Client.](http://www.transmissionbt.com/) It will automatically update the Title to reflect the current download and upload rate, if there a torrent currently downloading or uploading.
 
@@ -23,4 +23,4 @@ For whichever userscript extension you downloaded go to that extension's Dashboa
     // @grant        none
     // ==/UserScript==
 
-Go to the Transmission Remote GUI Page eg. http://xxx.xxx.xxx.xxx/transmission/web/ to view the changes.
+Save and go to the Transmission Remote GUI Page eg. http://xxx.xxx.xxx.xxx/transmission/web/ to view the changes.
