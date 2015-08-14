@@ -23,4 +23,4 @@ For whichever userscript extension you downloaded go to that extension's Dashboa
     // @grant        none
     // ==/UserScript==
 
-Go to the Transmission Remote GUI Page eg. http://xxx.xxx.xxx.xxx/transmission/web/ to view the changes.
+Save and go to the Transmission Remote GUI Page eg. http://xxx.xxx.xxx.xxx/transmission/web/ to view the changes.
