@@ -4,13 +4,13 @@ This is an enhancement to Web UI component of the popular [Transmission Torrent 
 
 # Userscript Installation
 
-Download the userscripts extension for your browser.
+Download the userscript extension for your browser.
 
  - Google Chrome: [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
  - Firefox: [Greasemonkey](https://addons.mozilla.org/en-us/firefox/addon/greasemonkey/)
  - Opera: [Violentmonkey](https://addons.opera.com/en/extensions/details/violent-monkey/)
 
-Go to your extensions dashboard page and paste the following code:
+For whichever userscript extension you downloaded go to that extension's Dashboard page. Add a new userscript and paste the following code:
 
     // ==UserScript==
     // @name         Transmission Web GUI
