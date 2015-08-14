@@ -14,10 +14,10 @@ For whichever userscript extension you downloaded go to that extension's Dashboa
 
     // ==UserScript==
     // @name         Transmission Web GUI
-    // @namespace    renegaed
+    // @namespace    renegaed.transmission-web-gui
     // @version      1.0
     // @description  Update Title Bar with the Download & Upload Rate
-    // @author       Vijay Madas
+    // @author       renegaed
     // @include      http*:*/transmission/web/
     // @require      https://raw.githubusercontent.com/renegaed/userscripts/master/transmission-web-ui/download_upload_rate.js
     // @grant        none
